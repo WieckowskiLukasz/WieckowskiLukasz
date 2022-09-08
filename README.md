@@ -4,4 +4,4 @@ I am a graduate of the Pawel Wlodkowic University College in Płock. I graduated
 
 Practically from the beginning of my studies I focused my attention on webmastering, especially on front-end technologies. My favorite technologies are ReactJS, TypeScript and Sass.
 
-I have done one commercial project which I did at the beginning of my studies. Currently I am looking for a job as a Junior Front-End Developer.
+I have done one commercial project which I did at the beginning of my studies.
