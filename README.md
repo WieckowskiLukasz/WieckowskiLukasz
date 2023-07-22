@@ -1,7 +1,7 @@
-Hi, my name is Łukasz Więckowski, for three years I am interested in creating web applications.
+Hi, my name is Łukasz Więckowski, and I am a front-end developer specializing in building web applications.
 
-I am a graduate of the Pawel Wlodkowic University College in Płock. I graduated from the Faculty of Computer Science with a specialization in programming and databases.
+I am a graduate of Paweł Włodkowic University in Płock, where I completed my engineering studies in Computer Science with a specialization in Programming and Databases.
 
-Practically from the beginning of my studies I focused my attention on webmastering, especially on front-end technologies. My favorite technologies are ReactJS, TypeScript and Sass.
+Since the early days of my studies, I have been focusing on web mastering, particularly on front-end technologies. My favorite technologies include React, Next.js, and TypeScript.
 
-I have done one commercial project which I did at the beginning of my studies.
+In my work, I also utilize technologies such as Material UI, Redux, and Sass. In the past, I have worked on full-stack projects using PHP, MySQL, and JavaScript.
